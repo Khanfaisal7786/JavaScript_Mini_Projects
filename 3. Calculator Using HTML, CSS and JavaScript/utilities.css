@@ -1,0 +1,17 @@
+.text-center{
+    text-align: center;
+}
+.bg-yellow{
+    background: yellow;
+}
+.flex{
+    display: flex;
+    
+}
+.flex-col{
+    flex-direction: column; 
+}
+.item-center{
+    justify-content: center;
+    align-items: center;
+}
